@@ -1,0 +1,4 @@
+results/
+*.asv
+*.m~
+*.log
